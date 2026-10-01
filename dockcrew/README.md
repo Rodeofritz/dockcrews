@@ -64,3 +64,6 @@ Money is stored as integer euro cents. Every table has row-level security;
 See the App Build Plan and task list. Round 0 (this repo): skeleton, schema,
 pricing logic, languages, landing page. Round 1: company sign-up, documents,
 admin approval, floor table admin, post a job.
+
+
+Deployed via Vercel.
