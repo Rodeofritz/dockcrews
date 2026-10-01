@@ -1,0 +1,21 @@
+{
+  "app": { "name": "Dockcrew", "tagline": "Ekipy rozładunkowe dla Twojej rampy, rezerwowane na kontener." },
+  "nav": { "language": "Język", "login": "Zaloguj", "signupSupplier": "Szukam ekip", "signupTeam": "Jesteśmy ekipą" },
+  "landing": {
+    "heroTitle": "Rozładunek kontenerów przez ekipy, które są swoimi szefami.",
+    "heroText": "Zamieść zlecenie na kontener. Zweryfikowane ekipy składają oferty w ciągu kilku godzin. Ty wybierasz po cenie i ocenie. Płacisz ekipie bezpośrednio.",
+    "forSuppliers": "Dla magazynów i importerów",
+    "forSuppliersText": "Stała cena za kontener, według przedziału colli. Dokumentacja zgodności każdej ekipy. Bez marży agencji.",
+    "forTeams": "Dla ekip rozładunkowych",
+    "forTeamsText": "Ustalasz własną cenę. Zapłata za kontener, prosto na konto Twojej firmy. Buduj ocenę, która przynosi zlecenia.",
+    "how": "Jak to działa",
+    "step1": "Zleceniodawca zamieszcza: kontenery, colli, data, kierowca tak lub nie.",
+    "step2": "Ekipy zgłaszają się lub składają oferty w wyznaczonym czasie.",
+    "step3": "Zleceniodawca wybiera ekipę po cenie i ocenie.",
+    "step4": "Ekipa rozładowuje i przesyła doclist dla każdego kontenera.",
+    "step5": "Zleceniodawca potwierdza. Faktura jest generowana. Zleceniodawca płaci ekipie.",
+    "region": "Startujemy w rejonie portu Rotterdam.",
+    "cta": "Zapisz mnie na listę"
+  },
+  "footer": { "legal": "Regulamin", "privacy": "Prywatność", "contact": "Kontakt" }
+}

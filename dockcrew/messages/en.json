@@ -1,0 +1,21 @@
+{
+  "app": { "name": "Dockcrew", "tagline": "Unloading crews for your dock, booked per container." },
+  "nav": { "language": "Language", "login": "Log in", "signupSupplier": "I need crews", "signupTeam": "We are a crew" },
+  "landing": {
+    "heroTitle": "Container unloading, done by crews that own their work.",
+    "heroText": "Post a job per container. Verified crews quote within hours. You choose on price and rating. Pay the crew directly.",
+    "forSuppliers": "For warehouses and importers",
+    "forSuppliersText": "Fixed price per container, by colli band. A compliance file for every crew. No agency margin.",
+    "forTeams": "For unloading crews",
+    "forTeamsText": "Quote your own price. Get paid per container, straight to your company's account. Build a rating that wins work.",
+    "how": "How it works",
+    "step1": "Supplier posts: containers, colli, date, driver yes or no.",
+    "step2": "Crews apply or quote within the window.",
+    "step3": "Supplier picks a crew on price and rating.",
+    "step4": "Crew unloads and uploads the doclist per container.",
+    "step5": "Supplier confirms. Invoice is generated. Supplier pays the crew.",
+    "region": "Starting in the Rotterdam port area.",
+    "cta": "Join the waiting list"
+  },
+  "footer": { "legal": "Terms", "privacy": "Privacy", "contact": "Contact" }
+}

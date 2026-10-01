@@ -1,0 +1,21 @@
+{
+  "app": { "name": "Dockcrew", "tagline": "Losploegen voor jouw dock, geboekt per container." },
+  "nav": { "language": "Taal", "login": "Inloggen", "signupSupplier": "Ik zoek ploegen", "signupTeam": "Wij zijn een ploeg" },
+  "landing": {
+    "heroTitle": "Containers lossen, door ploegen die eigen baas zijn.",
+    "heroText": "Plaats een klus per container. Gecontroleerde ploegen bieden binnen enkele uren. Jij kiest op prijs en beoordeling. Je betaalt de ploeg rechtstreeks.",
+    "forSuppliers": "Voor magazijnen en importeurs",
+    "forSuppliersText": "Vaste prijs per container, per colli-klasse. Een compliance-dossier van elke ploeg. Geen uitzendmarge.",
+    "forTeams": "Voor losploegen",
+    "forTeamsText": "Bepaal je eigen prijs. Word per container betaald, direct op de rekening van je bedrijf. Bouw een beoordeling op die werk oplevert.",
+    "how": "Zo werkt het",
+    "step1": "Opdrachtgever plaatst: containers, colli, datum, chauffeur ja of nee.",
+    "step2": "Ploegen reageren of bieden binnen de biedtijd.",
+    "step3": "Opdrachtgever kiest een ploeg op prijs en beoordeling.",
+    "step4": "Ploeg lost en uploadt per container de doclist.",
+    "step5": "Opdrachtgever bevestigt. De factuur wordt aangemaakt. Opdrachtgever betaalt de ploeg.",
+    "region": "We starten in het Rotterdamse havengebied.",
+    "cta": "Zet me op de wachtlijst"
+  },
+  "footer": { "legal": "Voorwaarden", "privacy": "Privacy", "contact": "Contact" }
+}

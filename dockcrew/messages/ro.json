@@ -1,0 +1,21 @@
+{
+  "app": { "name": "Dockcrew", "tagline": "Echipe de descărcare pentru rampa ta, rezervate per container." },
+  "nav": { "language": "Limbă", "login": "Autentificare", "signupSupplier": "Caut echipe", "signupTeam": "Suntem o echipă" },
+  "landing": {
+    "heroTitle": "Descărcarea containerelor, făcută de echipe care sunt propriii lor șefi.",
+    "heroText": "Publică o lucrare per container. Echipe verificate trimit oferte în câteva ore. Tu alegi după preț și evaluare. Plătești echipa direct.",
+    "forSuppliers": "Pentru depozite și importatori",
+    "forSuppliersText": "Preț fix per container, pe interval de colli. Dosar de conformitate pentru fiecare echipă. Fără marjă de agenție.",
+    "forTeams": "Pentru echipele de descărcare",
+    "forTeamsText": "Stabilești propriul preț. Ești plătit per container, direct în contul firmei tale. Construiește o evaluare care aduce lucrări.",
+    "how": "Cum funcționează",
+    "step1": "Beneficiarul publică: containere, colli, dată, șofer da sau nu.",
+    "step2": "Echipele aplică sau trimit oferte în intervalul stabilit.",
+    "step3": "Beneficiarul alege o echipă după preț și evaluare.",
+    "step4": "Echipa descarcă și încarcă doclist-ul pentru fiecare container.",
+    "step5": "Beneficiarul confirmă. Factura este generată. Beneficiarul plătește echipa.",
+    "region": "Începem în zona portului Rotterdam.",
+    "cta": "Înscrie-mă pe lista de așteptare"
+  },
+  "footer": { "legal": "Termeni", "privacy": "Confidențialitate", "contact": "Contact" }
+}
